@@ -2,6 +2,5 @@ Este repositório contém todos os exercícios praticados na faculdade, referent
 
 Os exercícios foram desenvolvidos utilizando ferramentas como:
 
-BRModelo - para construir os modelos DER (Diagrama de Entidade e Relacionamento);
-
-MYSQL (XAMPP) - para criação dos bancos de dados, desenvolvidos nos respectivos DERs.
+  BRModelo - para construir os modelos DER (Diagrama de Entidade e Relacionamento);<br>
+  MYSQL (XAMPP) - para criação dos bancos de dados, desenvolvidos nos respectivos DERs.
